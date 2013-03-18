@@ -1,0 +1,91 @@
+Province Number,Province,District Number,District,Males,Females,Total Population,Households,Average Persons per Household
+1,Manicaland,101,Buhera,114231.0,132231.0,246462.0,57126.0,4.3
+1,Manicaland,102,Chimanimani,64332.0,69478.0,133810.0,32801.0,4.1
+1,Manicaland,103,Chipinge Rural,139202.0,161590.0,300792.0,66403.0,4.5
+1,Manicaland,104,Makoni,133583.0,139706.0,273289.0,63887.0,4.3
+1,Manicaland,105,Mutare Rural,125547.0,135020.0,260567.0,58400.0,4.5
+1,Manicaland,106,Mutasa,79825.0,89931.0,169756.0,42479.0,4.0
+1,Manicaland,107,Nyanga,60021.0,65667.0,125688.0,32359.0,3.9
+1,Manicaland,121,Mutare Urban,88957.0,99286.0,188243.0,48258.0,3.9
+1,Manicaland,122,Rusape Urban,14273.0,16445.0,30718.0,8301.0,3.7
+1,Manicaland,123,Chipinge Urban,11791.0,13884.0,25675.0,6857.0,3.7
+2,Mashonaland Central,201,Bindura Rural,61912.0,62248.0,124160.0,28569.0,4.3
+2,Mashonaland Central,202,Muzarabani,60226.0,60502.0,120728.0,26843.0,4.5
+2,Mashonaland Central,203,Guruve,60304.0,63163.0,123467.0,27953.0,4.4
+2,Mashonaland Central,204,Mazowe,114309.0,118576.0,232885.0,63632.0,3.6
+2,Mashonaland Central,205,Mt Darwin,103070.0,109120.0,212190.0,47726.0,4.4
+2,Mashonaland Central,206,Rushinga,33803.0,36745.0,70548.0,16331.0,4.3
+2,Mashonaland Central,207,Shamva,59431.0,60099.0,119530.0,27552.0,4.3
+2,Mashonaland Central,208,Mbire,40434.0,41474.0,81908.0,18130.0,4.5
+2,Mashonaland Central,221,Bindura Urban,21242.0,22791.0,44033.0,11172.0,3.9
+2,Mashonaland Central,222,Mvurwi,4971.0,5520.0,10491.0,2709.0,3.9
+3,Mashonaland East,301,Chikomba,58000.0,63162.0,121162.0,30655.0,4.0
+3,Mashonaland East,302,Goromonzi,110373.0,113506.0,223879.0,56248.0,4.0
+3,Mashonaland East,303,Hwedza,34439.0,36034.0,70473.0,17273.0,4.1
+3,Mashonaland East,304,Marondera Rural,58556.0,57871.0,116427.0,29805.0,3.9
+3,Mashonaland East,305,Mudzi,62856.0,69761.0,132617.0,32443.0,4.1
+3,Mashonaland East,306,Murehwa,93367.0,101718.0,195085.0,46679.0,4.2
+3,Mashonaland East,307,Mutoko,70567.0,75109.0,145676.0,35372.0,4.1
+3,Mashonaland East,308,Seke,50439.0,50698.0,101137.0,24786.0,4.1
+3,Mashonaland East,309,Uzumba Maramba Pfungwe,53999.0,58151.0,112150.0,25949.0,4.3
+3,Mashonaland East,321,Marondera Urban,28988.0,33132.0,62120.0,16700.0,3.7
+3,Mashonaland East,323,Ruwa,26623.0,29710.0,56333.0,13807.0,4.1
+4,Mashonaland West,401,Chegutu,74933.0,74092.0,149025.0,36375.0,4.1
+4,Mashonaland West,402,Hurungwe,162289.0,162386.0,324675.0,70028.0,4.6
+4,Mashonaland West,403,Mhondoro,54216.0,49845.0,104061.0,23630.0,4.4
+4,Mashonaland West,404,Kariba Rural,20625.0,20795.0,41420.0,9565.0,4.3
+4,Mashonaland West,405,Makonde,75237.0,73582.0,148819.0,32214.0,4.6
+4,Mashonaland West,406,Zvimba,122562.0,122927.0,245489.0,58304.0,4.2
+4,Mashonaland West,407,Sanyati,57333.0,55887.0,113220.0,25257.0,4.5
+4,Mashonaland West,421,Chinhoyi,37618.0,41750.0,79368.0,18832.0,4.2
+4,Mashonaland West,422,Kadoma,43044.0,47065.0,90109.0,23091.0,3.9
+4,Mashonaland West,423,Chegutu Urban,23563.0,26269.0,49832.0,12634.0,3.9
+4,Mashonaland West,424,Kariba Urban,13246.0,13496.0,26742.0,6889.0,3.9
+4,Mashonaland West,425,Norton,27938.0,30483.0,58421.0,14482.0,4.0
+4,Mashonaland West,426,Karoi,8614.0,10143.0,18757.0,4961.0,3.8
+5,Matabeleland North,501,Binga,63512.0,74562.0,138074.0,31675.0,4.4
+5,Matabeleland North,502,BUBI,31898.0,30290.0,62188.0,14107.0,4.4
+5,Matabeleland North,503,Hwange Rural,30761.0,31888.0,62649.0,14893.0,4.2
+5,Matabeleland North,504,Lupane,47233.0,51631.0,98864.0,19160.0,5.2
+5,Matabeleland North,505,Nkayi,52241.0,57130.0,109371.0,21473.0,5.1
+5,Matabeleland North,506,Tsholotsho,52629.0,61266.0,113895.0,24151.0,4.7
+5,Matabeleland North,507,Umguza,45949.0,41569.0,87518.0,19495.0,4.5
+5,Matabeleland North,521,Hwange Urban,18744.0,18858.0,37602.0,9903.0,3.8
+5,Matabeleland North,522,Victoria Falls,16206.0,17504.0,33710.0,9109.0,3.7
+6,Matabeleland South,601,Beitbridge Rural,37516.0,42819.0,80335.0,18596.0,4.3
+6,Matabeleland  South,602,Bulilima,41913.0,48844.0,90757.0,19761.0,4.6
+6,Matabeleland South,603,Mangwe Rural,31478.0,35527.0,67005.0,13806.0,4.9
+6,Matabeleland South,604,Gwanda Rural,56524.0,59833.0,116357.0,26773.0,4.3
+6,Matabeleland South,605,Insiza,49181.0,50612.0,99793.0,21401.0,4.7
+6,Matabeleland South,606,Matobo,45018.0,48973.0,93991.0,20749.0,4.5
+6,Matabeleland South,607,Umzingwane,30796.0,31714.0,62510.0,14450.0,4.3
+6,Matabeleland South,621,Gwanda Urban,9607.0,10813.0,20420.0,5656.0,3.6
+6,Matabeleland South,622,Beitbridge Urban,20577.0,21641.0,42218.0,11959.0,3.5
+6,Matabeleland South,623,Mangwe Urban,5399.0,6261.0,11660.0,3273.0,3.6
+7,Midlands,701,Chirumanzu,38411.0,42676.0,81087.0,19736.0,4.1
+7,Midlands,702,Gokwe North,118181.0,126795.0,244976.0,49584.0,4.9
+7,Midlands,703,Gokwe South,148279.0,158971.0,307250.0,63224.0,4.9
+7,Midlands,704,Gweru Rural,45609.0,47519.0,93128.0,20756.0,4.5
+7,Midlands,705,Kwekwe  Rural,87278.0,88557.0,175835.0,38107.0,4.6
+7,Midlands,706,Mberengwa,87085.0,99079.0,186164.0,38852.0,4.8
+7,Midlands,707,Shurugwi Rural,37793.0,39667.0,77460.0,17134.0,4.5
+7,Midlands,708,Zvishavane Rural,33761.0,36286.0,70047.0,15100.0,4.6
+7,Midlands,721,Gweru Urban,73768.0,84465.0,158233.0,41149.0,3.8
+7,Midlands,722,Kwekwe Urban,48097.0,52358.0,100455.0,24779.0,4.1
+7,Midlands,723,Redcliff,17197.0,18727.0,35924.0,9458.0,3.8
+7,Midlands,724,Zvishavane Urban,21525.0,23800.0,45325.0,12068.0,3.8
+7,Midlands,725,Gokwe Centre,10908.0,13228.0,24136.0,6395.0,3.8
+7,Midlands,726,Shurugwi Urban,11341.0,11115.0,22456.0,5767.0,3.9
+8,Masvingo,801,Bikita,73690.0,88013.0,161703.0,37767.0,4.3
+8,Masvingo,802,Chiredzi Rural,133385.0,143457.0,276842.0,64865.0,4.3
+8,Masvingo,803,Chivi,75902.0,90375.0,166277.0,36382.0,4.6
+8,Masvingo,804,Gutu,94676.0,108857.0,203533.0,48244.0,4.2
+8,Masvingo,805,Masvingo Rural,99574.0,112158.0,211732.0,47297.0,4.5
+8,Masvingo,806,Mwenezi,76805.0,89458.0,166263.0,33967.0,4.9
+8,Masvingo,807,Zaka,81980.0,99126.0,181106.0,40250.0,4.5
+8,Masvingo,821,Masvingo Urban,40857.0,47697.0,88554.0,23935.0,3.7
+8,Masvingo,822,Chiredzi Town,14481.0,16113.0,30594.0,8490.0,3.6
+9,Harare,901,Harare Rural,56326.0,56794.0,113120.0,28691.0,3.9
+9,Harare,921,Harare Urban,706918.0,761849.0,1468767.0,371570.0,4.0
+9,Harare,922,Chitungwiza,167541.0,186931.0,354472.0,87103.0,4.1
+9,Harare,923,Epworth,81046.0,80794.0,161840.0,44603.0,3.6
